@@ -1,0 +1,22 @@
+{
+  "name": "gtm-async-demo",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Stuart Izon",
+  "scripts": {
+    "start": "webpack-dev-server --mode development"
+  },
+  "dependencies": {
+    "@types/angular": "^1.6.50",
+    "angular": "^1.7.3",
+    "loadjs": "^3.5.4"
+  },
+  "devDependencies": {
+    "ng-annotate-loader": "^0.6.1",
+    "ts-loader": "^4.3.0",
+    "typescript": "^2.8.3",
+    "webpack": "^4.8.1",
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-server": "^3.1.5"
+  }
+}
